@@ -1,7 +1,6 @@
 require_relative '../../animal'
 require_relative '../../enclosureTypes/tundra'
 
-
 class PolarBear < Carnivore
   include Tundra
 
